@@ -701,6 +701,42 @@ p {
       background-image: url(../images/slide/2_mobile.jpg);
       background-position: left;
     }
+
+    25%,
+    35% {
+      background-image: url(../images/slide/3.jpg);
+      background-position: left;
+    }
+
+    37.5%,
+    47.5% {
+      background-image: url(../images/slide/4.jpeg);
+      background-position: left;
+    }
+
+    50%,
+    60% {
+      background-image: url(../images/slide/5.png);
+      background-position: left;
+    }
+
+    62.5%,
+    72.5% {
+      background-image: url(../images/slide/6.jpg);
+      background-position: left;
+    }
+
+    75%,
+    85% {
+      background-image: url(../images/slide/7.jpg);
+      background-position: left;
+    }
+
+    87.5%,
+    97.5% {
+      background-image: url(../images/slide/8.jpeg);
+      background-position: left;
+    }
   }
 }
 
