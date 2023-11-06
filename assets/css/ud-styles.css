@@ -687,6 +687,23 @@ p {
   }
 }
 
+@media (max-width: 767px) {
+  @keyframes slide {
+
+    0%,
+    10% {
+      background-image: url(../images/slide/1_mobile.jpg);
+      background-position: left;
+    }
+
+    12.5%,
+    22.5% {
+      background-image: url(../images/slide/2_mobile.jpg);
+      background-position: left;
+    }
+  }
+}
+
 
 
 
