@@ -640,7 +640,7 @@ p {
 
   0%,
   10% {
-    background-image: url(../images/slide/1.png);
+    background-image: url(../images/slide/1.jpg);
     background-position: left;
   }
 
@@ -652,7 +652,7 @@ p {
 
   25%,
   35% {
-    background-image: url(../images/slide/3.jpeg);
+    background-image: url(../images/slide/3.jpg);
     background-position: left;
   }
 
